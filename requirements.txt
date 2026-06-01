@@ -1,0 +1,4 @@
+sympy>=1.12
+SpeechRecognition>=3.10.0
+word2number>=1.1
+PyAudio>=0.2.13
